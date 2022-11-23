@@ -1,0 +1,56 @@
+{
+  "BACK_BUTTON_TEXT": "Back",
+
+  "NAME": "Name",
+  "EMAIL": "Email",
+  "USERNAME": "Username",
+  "PASSWORD": "Password",
+  "LOGIN": "Sign in",
+  "SIGNUP": "Sign up",
+
+  "TAB1_TITLE": "Home",
+  "TAB2_TITLE": "Search",
+  "TAB3_TITLE": "About",
+
+  "MAP_TITLE": "Map",
+
+  "TUTORIAL_SKIP_BUTTON": "Skip",
+  "TUTORIAL_CONTINUE_BUTTON": "Continue",
+
+  "TUTORIAL_SLIDE1_TITLE": "Welcome to the Eucalyptus Digital Almanac",
+  "TUTORIAL_SLIDE1_DESCRIPTION": "The <b>Eucalyptus Digital Almanac</b> is a mobile application to promote citizen science on the impacts of the expansion of eucalyptus cultivation areas in Rio Grande do Sul.",
+
+  "TUTORIAL_SLIDE2_TITLE": "How to use the Digital Almanac",
+  "TUTORIAL_SLIDE2_DESCRIPTION": "Explore the content by browsing the homepage and accessing what you want to read. In Almanaque Digital there is a search tool that makes the experience much more focused and faster, taking you directly to the content you are looking for.",
+
+  "TUTORIAL_SLIDE3_TITLE": "Ready to Play?",
+
+  "CONTENT_TITLE": "About",
+  "CONTENT_ABOUT1": "Mobile application prototype for the promotion of citizen science of the impacts of the expansion of eucalyptus cultivation areas in Rio Grande do Sul",
+  "CONTENT_ABOUT2": "Developed as a requirement for approval in the discipline of Applied Software Engineering, by the Specialization Course in Software Engineering at the University of Vale do Rio dos Sinos - UNISINOS",
+  "CONTENT_ABOUT3": "Student: Everton Correa de Borba",
+  "CONTENT_ABOUT4": "Supervisor: Master Professor Josiane Brietzke Porto",
+
+  "LOGIN_TITLE": "Sign in",
+  "LOGIN_ERROR": "Unable to sign in. Please check your account information and try again.",
+  "LOGIN_BUTTON": "Sign in",
+  "SIGNUP_TITLE": "Sign up",
+  "SIGNUP_ERROR": "Unable to create account. Please check your account information and try again.",
+  "SIGNUP_BUTTON": "Sign up",
+
+  "LIST_MASTER_TITLE": "Eucalyptus Digital Almanac",
+
+  "ITEM_DETAIL_TITLE": "Read More",
+  "ITEM_CREATE_TITLE": "New Item",
+  "ITEM_CREATE_CHOOSE_IMAGE": "Add Image",
+
+  "ITEM_NAME_PLACEHOLDER": "Name",
+  "ITEM_ABOUT_PLACEHOLDER": "About",
+
+  "DONE_BUTTON": "Done",
+  "CANCEL_BUTTON": "Cancel",
+  "DELETE_BUTTON": "Delete",
+
+  "SEARCH_TITLE": "Search",
+  "SEARCH_PLACEHOLDER": "Search the items list, e.g. \"eucalyptus\""
+}

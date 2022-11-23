@@ -1,0 +1,60 @@
+{
+  "BACK_BUTTON_TEXT": "Voltar",
+
+  "NAME": "Nome",
+  "EMAIL": "Email",
+  "USERNAME": "Nome de Usuário",
+  "PASSWORD": "Senha",
+  "LOGIN": "Entrar",
+  "SIGNUP": "Cadastre-se",
+
+  "TAB1_TITLE": "Início",
+  "TAB2_TITLE": "Busca",
+  "TAB3_TITLE": "Sobre",
+
+  "MAP_TITLE": "Mapa",
+
+  "TUTORIAL_SKIP_BUTTON": "Pular",
+  "TUTORIAL_CONTINUE_BUTTON": "Continuar",
+
+  "TUTORIAL_SLIDE1_TITLE": "Bem-vindo ao Eucalipto Almanaque Digital",
+  "TUTORIAL_SLIDE1_DESCRIPTION": "O <b>Eucalipto Almanaque Digital</b> é um aplicativo móvel para promoção da ciência cidadã dos impactos da expansão das áreas de cultivo de eucalipto no Rio Grande do Sul.",
+
+  "TUTORIAL_SLIDE2_TITLE": "Como utilizar o Almanaque Digital",
+  "TUTORIAL_SLIDE2_DESCRIPTION": "Explore os conteúdos navegando pela página inicial e acessando o que você quer ler. No Almanaque Digital existe uma ferramenta de busca que torna a experiência muito mais focada e rápida, levando você diretamente para o conteúdo que procura.",
+
+  "TUTORIAL_SLIDE3_TITLE": "Pronto para Usar?",
+
+  "CONTENT_TITLE": "Sobre",
+  "CONTENT_ABOUT1": "Protótipo de aplicativo móvel para promoção da ciência cidadã dos impactos da expansão das áreas de cultivo de eucalipto no Rio Grande do Sul",
+  "CONTENT_ABOUT2": "Desenvolvido como requisito para aprovação na disciplina de Engenharia de Software Aplicada, pelo Curso de Especialização em Engenharia de Software da Universidade do Vale do Rio dos Sinos - UNISINOS",
+  "CONTENT_ABOUT3": "Aluno: Everton Correa de Borba",
+  "CONTENT_ABOUT4": "Orientadora: Professora Doutora Mestre Josiane Brietzke Porto",
+
+  "SETTINGS_PROFILE_BUTTON": "Editar Perfil",
+
+  "SETTINGS_PAGE_PROFILE": "Editar Perfil",
+
+  "LOGIN_TITLE": "Entrar",
+  "LOGIN_ERROR": "Não foi possível entrar na sua conta. Verifique seus dados e tente novamente.",
+  "LOGIN_BUTTON": "Entrar",
+  "SIGNUP_TITLE": "Cadastre-se",
+  "SIGNUP_ERROR": "Não foi possível criar sua conta. Verifique seus dados e tente novamente.",
+  "SIGNUP_BUTTON": "Cadastre-se",
+
+  "LIST_MASTER_TITLE": "Eucalipto Almanaque Digital",
+
+  "ITEM_DETAIL_TITLE": "Leia Mais",
+  "ITEM_CREATE_TITLE": "Novo Item",
+  "ITEM_CREATE_CHOOSE_IMAGE": "Adicionar Imagem",
+
+  "ITEM_NAME_PLACEHOLDER": "Nome",
+  "ITEM_ABOUT_PLACEHOLDER": "Sobre",
+
+  "DONE_BUTTON": "Pronto",
+  "CANCEL_BUTTON": "Cancelar",
+  "DELETE_BUTTON": "Apagar",
+
+  "SEARCH_TITLE": "Busca",
+  "SEARCH_PLACEHOLDER": "Procure um item da lista, ex: \"eucalipto\""
+}

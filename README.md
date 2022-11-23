@@ -1,8 +1,8 @@
-# The Ionic Super Starter 🎮
-
 # ionic-eucalyptus-app
 
 Mobile application to promote citizen science on the impacts of the expansion of eucalyptus cultivation areas in Brazil
+
+# The Ionic Super Starter 🎮
 
 <img src="https://user-images.githubusercontent.com/236501/32385619-bddac0ac-c08c-11e7-9ee4-9c892197191f.png" width="400" />
 

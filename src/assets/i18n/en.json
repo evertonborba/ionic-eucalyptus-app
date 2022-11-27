@@ -18,7 +18,7 @@
   "TUTORIAL_CONTINUE_BUTTON": "Continue",
 
   "TUTORIAL_SLIDE1_TITLE": "Welcome to the Eucalyptus Digital Almanac",
-  "TUTORIAL_SLIDE1_DESCRIPTION": "The <b>Eucalyptus Digital Almanac</b> is a mobile application to promote citizen science on the impacts of the expansion of eucalyptus cultivation areas in Rio Grande do Sul.",
+  "TUTORIAL_SLIDE1_DESCRIPTION": "The <b>Eucalyptus Digital Almanac</b> is a mobile application to promote citizen science on the impacts of the expansion of eucalyptus cultivation areas in Brazil.",
 
   "TUTORIAL_SLIDE2_TITLE": "How to use the Digital Almanac",
   "TUTORIAL_SLIDE2_DESCRIPTION": "Explore the content by browsing the homepage and accessing what you want to read. In Almanaque Digital there is a search tool that makes the experience much more focused and faster, taking you directly to the content you are looking for.",
@@ -26,7 +26,7 @@
   "TUTORIAL_SLIDE3_TITLE": "Ready to Play?",
 
   "CONTENT_TITLE": "About",
-  "CONTENT_ABOUT1": "Mobile application prototype for the promotion of citizen science of the impacts of the expansion of eucalyptus cultivation areas in Rio Grande do Sul",
+  "CONTENT_ABOUT1": "Mobile application prototype for the promotion of citizen science of the impacts of the expansion of eucalyptus cultivation areas in Brazil",
   "CONTENT_ABOUT2": "Developed as a requirement for approval in the discipline of Applied Software Engineering, by the Specialization Course in Software Engineering at the University of Vale do Rio dos Sinos - UNISINOS",
   "CONTENT_ABOUT3": "Student: Everton Correa de Borba",
   "CONTENT_ABOUT4": "Supervisor: Master Professor Josiane Brietzke Porto",
